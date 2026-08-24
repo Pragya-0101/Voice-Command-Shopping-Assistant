@@ -27,7 +27,7 @@ and the recognized text is sent straight to Python.
 opened over HTTPS (Streamlit Cloud gives you HTTPS automatically).
 
 ## Deployment
-Deployed on Streamlit Cloud: [add your live link here]
+Deployed on Streamlit Cloud: [https://voice-command-shopping-assistant-2xsojemr4bgasjhfcugsbn.streamlit.app/]
 
 ## Tech Stack
 - Streamlit (UI + app logic)
